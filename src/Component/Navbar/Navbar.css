@@ -1,0 +1,30 @@
+.nav-logo img{
+    padding: 10px;
+border-radius: 30%;
+display: flex;
+align-items: center;
+}
+
+.nav-logo{
+    text-align: center;
+}
+
+.search input{
+    width: 200px;
+    height: 20px;
+    outline: none;
+    border: 0px;
+    border-bottom: 2px solid black;
+}
+.search{
+    display: flex;
+    align-items: center;
+}
+.icons{
+    display: flex;
+    align-items: center;
+
+}
+.icon-item{
+    margin: 0 10px;
+}
